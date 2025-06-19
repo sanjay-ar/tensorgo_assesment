@@ -74,13 +74,3 @@ Results showed significant improvement in SQL generation quality compared to the
 [![GitHub](https://img.shields.io/badge/GitHub-sanjay--ar-black?style=flat-square&logo=github)](https://github.com/sanjay-ar)
 
 > 💡 *Like this project? Leave a ⭐ and connect with me!*
-
-
-This project demonstrates the accessibility and power of creating specialized language models through fine-tuning. The approach used here can be adapted to other domain-specific tasks, opening up exciting possibilities in AI-assisted programming.
-
-
-## Acknowledgments
-
-- Hugging Face for providing the SQL dataset
-- AutoTrain framework for simplifying the fine-tuning process
-
